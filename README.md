@@ -14,8 +14,10 @@
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DandiKurnia&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DandiKurnia&layout=compact&theme=radical)  
+<p   >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,nodejs,react,laravel,php,tailwind,express,postgres,git,postman,nginx,ubuntu,github,firebase,vscode,arduino" />
+  </a>
+</p>
 
 ---
