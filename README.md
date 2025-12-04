@@ -10,6 +10,7 @@ Passionate about building apps, embedded systems, and scalable infrastructure.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
