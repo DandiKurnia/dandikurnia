@@ -43,9 +43,3 @@ Passionate about building apps, embedded systems, and scalable infrastructure.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dandi-kurnia-putra-927935221/)  
 [![Website](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://dandihub.my.id)
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dandikurnia&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandikurnia&layout=compact&theme=tokyonight)
-
