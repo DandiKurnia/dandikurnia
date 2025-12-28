@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Dandi Kurnia**
 
-**Software Developer | IoT Enthusiast | Network & System Engineer**  
+**Web Developer | IoT Enthusiast | Network & System Engineer**  
 Passionate about building apps, embedded systems, and scalable infrastructure.
 
 ---
@@ -31,7 +31,7 @@ Passionate about building apps, embedded systems, and scalable infrastructure.
 ---
 
 ## 💡 About Me
-🌱 Currently learning **Flutter, React, Laravel, Cloud Computing**  
+🌱 Currently learning **Flutter, React, Laravel, Express, Cloud Computing**  
 🔭 Working on **IoT Systems (ESP32 + Firebase)**, Mobile Apps, and Server Infrastructure  
 💬 Ask me about **IoT, Web Dev, Networking, and Ubuntu Server**  
 ⚡ Fun fact: I love mixing **hardware + software** to create real solutions.
