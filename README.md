@@ -18,7 +18,9 @@ Passionate about building **web applications, mobile apps, IoT systems, and scal
 #### ⚙️ Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 
 ---
@@ -28,21 +30,6 @@ Passionate about building **web applications, mobile apps, IoT systems, and scal
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
-
----
-
-### 🤖 IoT & Embedded Systems
-
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-
-**Focus:**
-- ESP32 & Embedded Systems
-- IoT Application Development
-- Sensor & Device Integration
-- Firebase-based IoT Systems
-- Hardware & Software Integration
 
 ---
 
@@ -78,6 +65,21 @@ Passionate about building **web applications, mobile apps, IoT systems, and scal
 ### 🛠️ Development Tools
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+---
+
+### 🤖 IoT & Embedded Systems
+
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+
+**Focus:**
+- ESP32 & Embedded Systems
+- IoT Application Development
+- Sensor & Device Integration
+- Firebase-based IoT Systems
+- Hardware & Software Integration
 
 ---
 
